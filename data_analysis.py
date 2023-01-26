@@ -1,3 +1,5 @@
+#This is just code from following along with this tutorial: https://www.youtube.com/watch?v=DamIIzp41Jg&list=PLQVvvaa0QuDfSfqQuee6K8opKtZsh7sA9&index=2
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
